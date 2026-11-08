@@ -1,0 +1,11 @@
+modelo,estado,MAE_s,RMSE_s,MAPE_pct,ETA_MAE_s,ETA_MAPE_pct
+persistencia,ejecutado,1.0723717446832857,2.6226593465025645,3.6557124886444816,5.595504936131525,2.754907933337523
+media_historica,ejecutado,0.7665363808877766,3.783268307412852,2.3043149438547976,2.5934600500389586,1.263937556287174
+ridge,ejecutado,1.4787782133576224,3.6059741850603055,4.913348725767271,5.677875290209007,2.962318460921509
+MLP_L0,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,
+GNN_L1,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,
+GNN_L2,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,
+GNN_L3,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,
+GNN_L2_sum,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,
+GNN_L2_max,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,
+GNN_L2_cuadratica,NO EJECUTADO (torch no disponible: No module named 'torch'),,,,,

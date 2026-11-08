@@ -1,0 +1,11 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+.env/
+.evenv/
+
+# Archivos de variables de entorno (claves y secretos)
+.env
+.env.*
+!.env.example

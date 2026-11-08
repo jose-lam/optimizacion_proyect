@@ -1,0 +1,2 @@
+ n_quiebres      dif_max  pct_pares_misma_ruta_pct_vs_minmax  z_t_medio_percentil  z_t_medio_minmax  rutas_distintas_media
+        131 4.640589e-10                                90.0              0.48533          0.296652                   2.31

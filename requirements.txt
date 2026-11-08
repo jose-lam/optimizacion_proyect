@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+networkx
+osmnx
+scikit-learn
+torch
+matplotlib
+pyarrow
+pyyaml
+pytest

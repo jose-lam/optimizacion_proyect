@@ -1,0 +1,10 @@
+area,algoritmo,pares,dif_rel_max,pct_coinciden
+L,astar,300,0.0,100.0
+L,bidireccional,300,8.131396378524804e-16,100.0
+L,dijkstra,300,0.0,100.0
+M,astar,1000,0.0,100.0
+M,bidireccional,1000,5.970037286844817e-16,100.0
+M,dijkstra,1000,0.0,100.0
+S,astar,1000,0.0,100.0
+S,bidireccional,1000,3.710042267187522e-16,100.0
+S,dijkstra,1000,0.0,100.0

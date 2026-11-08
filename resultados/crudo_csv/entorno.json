@@ -1,0 +1,9 @@
+{
+ "python": "3.12.3",
+ "numpy": "2.5.4",
+ "scipy": "1.18.1",
+ "pandas": "3.1.0",
+ "networkx": "3.7",
+ "maquina": "Linux-7.0.11-76070011-generic-x86_64-with-glibc2.39",
+ "procesador": "x86_64"
+}

@@ -1,0 +1,15 @@
+semilla: 42
+fuente_red: sintetica        # sintetica | osm  (osm requiere red y osmnx)
+areas:                       # malla sintetica / lugar OSM
+  S: {filas: 12,  cols: 12,  paso_m: 250, lugar: "Miraflores, Lima, Peru"}
+  M: {filas: 40,  cols: 40,  paso_m: 250, lugar: "Lima Moderna, Lima, Peru"}
+  L: {filas: 100, cols: 100, paso_m: 250, lugar: "Lima Metropolitana, Peru"}
+centro: {lat: -12.0464, lon: -77.0428}
+unidades: {tiempo: segundos, distancia: metros, velocidad: kmh}
+normalizacion: {p_bajo: 5, p_alto: 95}
+pesos_preferencia: {w_t: 1.0, w_d: 0.0, w_p: 0.5, w_q: 0.0}
+peajes_soles: {autopista_por_arista: 0.25}    # SUPUESTO declarado
+energia: {alfa: 0.12, beta: 1.0, gamma: 0.05} # SUPUESTO declarado (kWh/km)
+trafico: {dias: 30, paso_min: 5, horizonte_min: 15, incidentes_por_dia: 3, ventana_T: 6}
+eta: {d: 32, L: 2, agregacion: mean, eta: 1.0e-3, lam: 1.0e-5, delta: 1.0, epocas: 40, paciencia: 6, lote: 16, trials: 4}
+consultas: {n_por_estrato: {S: 500, M: 500, L: 60}, n_correctitud: {S: 1000, M: 1000, L: 300}}

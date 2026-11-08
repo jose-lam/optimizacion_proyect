@@ -1,0 +1,4 @@
+area,nodos,aristas,grado_medio,long_total_km,vmax_kmh,pct_vel_imputada,paralelas_descartadas,nodos_descartados,pct_peaje,ok_fuertemente_conexo,ok_costos_no_negativos,ok_vel_le_vmax,ok_long_ge_recta
+S,144,476,3.3055555555555554,128.3789483146612,80.0,8.823529411764707,0,0,9.243697478991598,True,True,True,True
+M,1598,5614,3.5131414267834793,1520.6100934320748,80.0,10.064125400783755,0,2,8.229426433915211,True,True,True,True
+L,9994,35436,3.545727436461877,9596.333465640191,80.0,9.927757083192233,0,6,8.714301839936788,True,True,True,True
